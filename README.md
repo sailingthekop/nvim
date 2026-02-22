@@ -5,6 +5,9 @@
 This config is designed for a little web development as well as notes management (digital garden)
 
 ### Plugins
+- [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+    Dependencies
+    - [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)
 - [which-key.nvim](https://github.com/folke/which-key.nvim)
 
 ## References
